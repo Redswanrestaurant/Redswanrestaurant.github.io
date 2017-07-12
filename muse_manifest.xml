@@ -1,0 +1,1039 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Redswan.com" resolutions="1x" timestamp="1499396730657">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="32675613" ref="chi_tiet_dau_bep:index:chi_tiet_nhan_vien:hinh_anh:chi_tiet_lich_su_va_phat_trien:gioi_thieu"/>
+    <file name="master_master-dichvu.css" crc="485244356" ref="dich_vu:tiec_cuoi:hoi_nghi"/>
+    <file name="master_master-tin-tuc.css" crc="27975569" ref="tin_tuc:tong_hop:khuyen_mai"/>
+    <file name="master_master-lienhe.css" crc="220873414" ref="lien_he"/>
+    <file name="master_master-tin-chi-tiet.css" crc="235212827" ref="chitiettin_tonghop:chitiettin_tieccuoi:booking_tieccuoi_goikimcuong:chi_tiet_wedding_together:booking:chitiettin_khuyenmai:booking_tieccuoi_goivang:chitiettin_hoinghi"/>
+    <file name="master_master-menu.css" crc="4056500866" ref="thuc_don:trang_mieng:do_an:do_uong"/>
+    <file name="tin_tuc.css" crc="512209572" ref="tin_tuc"/>
+    <file name="chi_tiet_dau_bep.css" crc="476454375" ref="chi_tiet_dau_bep"/>
+    <file name="thuc_don.css" crc="3803061702" ref="thuc_don"/>
+    <file name="chitiettin_tonghop.css" crc="4017786527" ref="chitiettin_tonghop"/>
+    <file name="dich_vu.css" crc="325331777" ref="dich_vu"/>
+    <file name="index.css" crc="318048265" ref="index"/>
+    <file name="chitiettin_tieccuoi.css" crc="452967245" ref="chitiettin_tieccuoi"/>
+    <file name="trang_mieng.css" crc="4091000892" ref="trang_mieng"/>
+    <file name="booking_tieccuoi_goikimcuong.css" crc="4074055545" ref="booking_tieccuoi_goikimcuong"/>
+    <file name="lien_he.css" crc="227710707" ref="lien_he"/>
+    <file name="chi_tiet_wedding_together.css" crc="78121943" ref="chi_tiet_wedding_together"/>
+    <file name="tong_hop.css" crc="4158129055" ref="tong_hop"/>
+    <file name="do_an.css" crc="3875076568" ref="do_an"/>
+    <file name="chi_tiet_nhan_vien.css" crc="3794138661" ref="chi_tiet_nhan_vien"/>
+    <file name="booking.css" crc="80678036" ref="booking"/>
+    <file name="do_uong.css" crc="72520849" ref="do_uong"/>
+    <file name="khuyen_mai.css" crc="3987127714" ref="khuyen_mai"/>
+    <file name="chitiettin_khuyenmai.css" crc="61534886" ref="chitiettin_khuyenmai"/>
+    <file name="booking_tieccuoi_goivang.css" crc="78510139" ref="booking_tieccuoi_goivang"/>
+    <file name="hinh_anh.css" crc="4154567722" ref="hinh_anh"/>
+    <file name="tiec_cuoi.css" crc="310844933" ref="tiec_cuoi"/>
+    <file name="chitiettin_hoinghi.css" crc="4210561523" ref="chitiettin_hoinghi"/>
+    <file name="chi_tiet_lich_su_va_phat_trien.css" crc="3991650708" ref="chi_tiet_lich_su_va_phat_trien"/>
+    <file name="gioi_thieu.css" crc="152342569" ref="gioi_thieu"/>
+    <file name="hoi_nghi.css" crc="3796244757" ref="hoi_nghi"/>
+  </folder>
+  <folder name="fonts">
+    <file name="oldstandard-italic.woff" crc="146159170"/>
+    <file name="oldstandard-italic.eot" crc="23062394"/>
+    <file name="oldstandard-italic.svg" crc="3882395004"/>
+    <file name="sanfranciscotext-regular.woff" crc="4120790235"/>
+    <file name="sanfranciscotext-regular.eot" crc="253520941"/>
+    <file name="sanfranciscotext-regular.svg" crc="4290640073"/>
+    <file name="oldstandard-bold.woff" crc="3909335066"/>
+    <file name="oldstandard-bold.eot" crc="380401540"/>
+    <file name="oldstandard-bold.svg" crc="3816007666"/>
+    <file name="svn-candlescript-pro.woff" crc="344775266"/>
+    <file name="svn-candlescript-pro.eot" crc="269097505"/>
+    <file name="svn-candlescript-pro.svg" crc="4094333985"/>
+    <file name="oldstandardregular.woff" crc="4113004813"/>
+    <file name="oldstandardregular.eot" crc="4058269125"/>
+    <file name="oldstandardregular.svg" crc="459360658"/>
+    <file name="fontawesome-webfont.woff" crc="222444626"/>
+    <file name="fontawesome-webfont.eot" crc="3863299673"/>
+    <file name="fontawesome-webfont.svg" crc="332874908"/>
+    <file name="sanfranciscotext-bold.woff" crc="3824323474"/>
+    <file name="sanfranciscotext-bold.eot" crc="3764388092"/>
+    <file name="sanfranciscotext-bold.svg" crc="532954567"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:gioi_thieu:tin_tuc:dich_vu:lien_he:tong_hop:khuyen_mai:tiec_cuoi:hoi_nghi:thuc_don:trang_mieng:do_an:do_uong:hinh_anh:chi_tiet_lich_su_va_phat_trien:chi_tiet_dau_bep:chi_tiet_nhan_vien:chi_tiet_wedding_together:booking:chitiettin_khuyenmai:chitiettin_hoinghi:chitiettin_tieccuoi:chitiettin_tonghop:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang"/>
+    <file name="museutils.js" crc="4232573551" ref="index:gioi_thieu:tin_tuc:dich_vu:lien_he:tong_hop:khuyen_mai:tiec_cuoi:hoi_nghi:thuc_don:trang_mieng:do_an:do_uong:hinh_anh:chi_tiet_lich_su_va_phat_trien:chi_tiet_dau_bep:chi_tiet_nhan_vien:chi_tiet_wedding_together:booking:chitiettin_khuyenmai:chitiettin_hoinghi:chitiettin_tieccuoi:chitiettin_tonghop:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang"/>
+    <file name="whatinput.js" crc="86476730" ref="index:gioi_thieu:tin_tuc:dich_vu:lien_he:tong_hop:khuyen_mai:tiec_cuoi:hoi_nghi:thuc_don:trang_mieng:do_an:do_uong:hinh_anh:chi_tiet_lich_su_va_phat_trien:chi_tiet_dau_bep:chi_tiet_nhan_vien:chi_tiet_wedding_together:booking:chitiettin_khuyenmai:chitiettin_hoinghi:chitiettin_tieccuoi:chitiettin_tonghop:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:gioi_thieu:tin_tuc:dich_vu:lien_he:tong_hop:khuyen_mai:tiec_cuoi:hoi_nghi:thuc_don:trang_mieng:do_an:do_uong:hinh_anh:chi_tiet_lich_su_va_phat_trien:chi_tiet_dau_bep:chi_tiet_nhan_vien:chi_tiet_wedding_together:booking:chitiettin_khuyenmai:chitiettin_hoinghi:chitiettin_tieccuoi:chitiettin_tonghop:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:gioi_thieu:tin_tuc:dich_vu:lien_he:tong_hop:khuyen_mai:tiec_cuoi:thuc_don:chi_tiet_wedding_together:booking:chitiettin_khuyenmai:chitiettin_tonghop:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:gioi_thieu:tin_tuc:dich_vu:lien_he:tong_hop:khuyen_mai:tiec_cuoi:hoi_nghi:thuc_don:trang_mieng:do_an:do_uong:hinh_anh:chi_tiet_lich_su_va_phat_trien:chi_tiet_dau_bep:chi_tiet_nhan_vien:chi_tiet_wedding_together:booking:chitiettin_khuyenmai:chitiettin_hoinghi:chitiettin_tieccuoi:chitiettin_tonghop:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang"/>
+    <file name="webpro.js" crc="3770351119" ref="index:gioi_thieu:tin_tuc:dich_vu:lien_he:tong_hop:khuyen_mai:tiec_cuoi:hoi_nghi:thuc_don:trang_mieng:do_an:do_uong:hinh_anh:chi_tiet_lich_su_va_phat_trien:chi_tiet_dau_bep:chi_tiet_nhan_vien:chi_tiet_wedding_together:booking:chitiettin_khuyenmai:chitiettin_hoinghi:chitiettin_tieccuoi:chitiettin_tonghop:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index:gioi_thieu:dich_vu:tiec_cuoi"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index:gioi_thieu:dich_vu:tiec_cuoi"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index:gioi_thieu:dich_vu:tiec_cuoi"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:gioi_thieu:tin_tuc:dich_vu:lien_he:tong_hop:khuyen_mai:tiec_cuoi:hoi_nghi:thuc_don:trang_mieng:do_an:do_uong:hinh_anh:chi_tiet_lich_su_va_phat_trien:chi_tiet_dau_bep:chi_tiet_nhan_vien:chi_tiet_wedding_together:booking:chitiettin_khuyenmai:chitiettin_hoinghi:chitiettin_tieccuoi:chitiettin_tonghop:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang"/>
+    <file name="form_check.php" crc="3841221102" ref="index:booking:tin_tuc"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index:booking:tin_tuc"/>
+    <file name="form_process.php" crc="3899230280" ref="index:booking:tin_tuc"/>
+    <file name="form-u5145.php" crc="337725016" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index:gioi_thieu:tin_tuc:dich_vu:lien_he:tong_hop:khuyen_mai:tiec_cuoi:hoi_nghi:thuc_don:trang_mieng:do_an:do_uong:hinh_anh:chi_tiet_lich_su_va_phat_trien:chi_tiet_dau_bep:chi_tiet_nhan_vien:chi_tiet_wedding_together:booking:chitiettin_khuyenmai:chitiettin_hoinghi:chitiettin_tieccuoi:chitiettin_tonghop:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:gioi_thieu:tin_tuc:dich_vu:lien_he:tong_hop:khuyen_mai:tiec_cuoi:hoi_nghi:thuc_don:trang_mieng:do_an:do_uong:hinh_anh:chi_tiet_lich_su_va_phat_trien:chi_tiet_dau_bep:chi_tiet_nhan_vien:chi_tiet_wedding_together:booking:chitiettin_khuyenmai:chitiettin_hoinghi:chitiettin_tieccuoi:chitiettin_tonghop:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang"/>
+    <file name="require.js" crc="4234670167" ref="index:gioi_thieu:tin_tuc:dich_vu:lien_he:tong_hop:khuyen_mai:tiec_cuoi:hoi_nghi:thuc_don:trang_mieng:do_an:do_uong:hinh_anh:chi_tiet_lich_su_va_phat_trien:chi_tiet_dau_bep:chi_tiet_nhan_vien:chi_tiet_wedding_together:booking:chitiettin_khuyenmai:chitiettin_hoinghi:chitiettin_tieccuoi:chitiettin_tonghop:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang"/>
+    <file name="form-u15783.php" crc="4098096097" ref="tin_tuc"/>
+    <file name="form-u8229.php" crc="142202672" ref="dich_vu"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="lien_he"/>
+    <file name="form-u13933.php" crc="461142769" ref="lien_he"/>
+    <file name="form-u12735.php" crc="361966334" ref="lien_he"/>
+    <file name="form-u5800.php" crc="4193400154" ref="thuc_don"/>
+    <file name="form-u24424.php" crc="4182422725" ref="chi_tiet_wedding_together:booking"/>
+  </folder>
+  <folder name="images">
+    <file name="không nền.png" crc="4284400673" seo="true" ref="index:gioi_thieu:tin_tuc:dich_vu:lien_he:tong_hop:khuyen_mai:tiec_cuoi:hoi_nghi:thuc_don:trang_mieng:do_an:do_uong:hinh_anh:chi_tiet_lich_su_va_phat_trien:chi_tiet_dau_bep:chi_tiet_nhan_vien:chi_tiet_wedding_together:booking:chitiettin_khuyenmai:chitiettin_hoinghi:chitiettin_tieccuoi:chitiettin_tonghop:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang">
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="hoi_nghi" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="trang_mieng" alt=""/>
+      <caption webpage="chitiettin_tonghop" alt=""/>
+      <caption webpage="chitiettin_khuyenmai" alt=""/>
+      <caption webpage="do_uong" alt=""/>
+      <caption webpage="chitiettin_hoinghi" alt=""/>
+      <caption webpage="hinh_anh" alt=""/>
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="chi_tiet_wedding_together" alt=""/>
+      <caption webpage="chitiettin_tieccuoi" alt=""/>
+      <caption webpage="do_an" alt=""/>
+      <caption webpage="chi_tiet_nhan_vien" alt=""/>
+      <caption webpage="tiec_cuoi" alt=""/>
+      <caption webpage="chi_tiet_dau_bep" alt=""/>
+      <caption webpage="chi_tiet_lich_su_va_phat_trien" alt=""/>
+      <caption webpage="lien_he" alt=""/>
+    </file>
+    <file name="down.png" crc="101809392" ref="index:tin_tuc:dich_vu:lien_he:thuc_don:chi_tiet_wedding_together:booking">
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="hinh_anh" alt=""/>
+      <caption webpage="hinh_anh" alt=""/>
+      <caption webpage="hinh_anh" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="chi_tiet_wedding_together" alt=""/>
+      <caption webpage="chi_tiet_wedding_together" alt=""/>
+      <caption webpage="chi_tiet_wedding_together" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="chi_tiet_dau_bep" alt=""/>
+      <caption webpage="chi_tiet_dau_bep" alt=""/>
+      <caption webpage="chi_tiet_dau_bep" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="lien_he" alt=""/>
+      <caption webpage="lien_he" alt=""/>
+      <caption webpage="lien_he" alt=""/>
+    </file>
+    <file name="background-restaurant-2-u860-fr.jpg" crc="3847350811" ref="index"/>
+    <file name="khung1-02.png" crc="4251552324" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="welcome-01.png" crc="207957287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="obfm1u0.jpg" crc="3809251338" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nhung dieu can can nhac khi dat nha hang tiec cuoi_3.jpg" crc="3867600727" ref="index:booking" seo="true">
+      <caption webpage="index" alt=""/>
+      <caption webpage="booking" alt=""/>
+    </file>
+    <file name="pre-01.png" crc="3977498865" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="next-01.png" crc="440613241" seo="true" ref="index:gioi_thieu:tin_tuc:dich_vu:lien_he:tong_hop:khuyen_mai:tiec_cuoi:hoi_nghi:thuc_don:trang_mieng:do_an:do_uong:hinh_anh:chi_tiet_lich_su_va_phat_trien:chi_tiet_dau_bep:chi_tiet_nhan_vien:chi_tiet_wedding_together:booking:chitiettin_khuyenmai:chitiettin_hoinghi:chitiettin_tieccuoi:chitiettin_tonghop:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang">
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="hoi_nghi" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="trang_mieng" alt=""/>
+      <caption webpage="chitiettin_tonghop" alt=""/>
+      <caption webpage="chitiettin_khuyenmai" alt=""/>
+      <caption webpage="do_uong" alt=""/>
+      <caption webpage="chitiettin_hoinghi" alt=""/>
+      <caption webpage="hinh_anh" alt=""/>
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="chi_tiet_wedding_together" alt=""/>
+      <caption webpage="chi_tiet_wedding_together" alt=""/>
+      <caption webpage="chitiettin_tieccuoi" alt=""/>
+      <caption webpage="do_an" alt=""/>
+      <caption webpage="chi_tiet_nhan_vien" alt=""/>
+      <caption webpage="tiec_cuoi" alt=""/>
+      <caption webpage="chi_tiet_dau_bep" alt=""/>
+      <caption webpage="chi_tiet_lich_su_va_phat_trien" alt=""/>
+      <caption webpage="lien_he" alt=""/>
+    </file>
+    <file name="trang trí text-01.png" crc="445792220" seo="true" ref="index:dich_vu:tiec_cuoi:chitiettin_hoinghi:chitiettin_tieccuoi:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang">
+      <caption webpage="chitiettin_hoinghi" alt=""/>
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+      <caption webpage="tiec_cuoi" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="chitiettin_tieccuoi" alt=""/>
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+    </file>
+    <file name="2-02.png" crc="220977427" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-02.png" crc="3856963153" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-02.png" crc="4165160441" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8-02.png" crc="3830215855" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="croppedimage1600900-restaurant-alpenhof-zermatt.jpg" crc="3847727402" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="khung news-02.png" crc="4046990182" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="15.jpg" crc="3853860831" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10-u2418-fr.jpg" crc="380858475" ref="index"/>
+    <file name="pasted-svg-11128x9.svg" crc="3911668337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 11128x9_poster_.png" crc="22424010" ref="index"/>
+    <file name="1-02.png" crc="10589880" seo="true" ref="index">
+      <caption webpage="tiec_cuoi" alt=""/>
+      <caption webpage="chi_tiet_wedding_together" alt=""/>
+      <caption webpage="lien_he" alt=""/>
+      <caption webpage="chitiettin_tonghop" alt=""/>
+      <caption webpage="chitiettin_tieccuoi" alt=""/>
+      <caption webpage="hinh_anh" alt=""/>
+      <caption webpage="do_an" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="hoi_nghi" alt=""/>
+      <caption webpage="chi_tiet_nhan_vien" alt=""/>
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="chi_tiet_dau_bep" alt=""/>
+      <caption webpage="do_uong" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="chitiettin_hoinghi" alt=""/>
+      <caption webpage="trang_mieng" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="chi_tiet_lich_su_va_phat_trien" alt=""/>
+      <caption webpage="chitiettin_khuyenmai" alt=""/>
+    </file>
+    <file name="fb-02.png" crc="95764382" seo="true" ref="index:gioi_thieu:tin_tuc:dich_vu:lien_he:tong_hop:khuyen_mai:tiec_cuoi:hoi_nghi:thuc_don:trang_mieng:do_an:do_uong:hinh_anh:chi_tiet_lich_su_va_phat_trien:chi_tiet_dau_bep:chi_tiet_nhan_vien:chi_tiet_wedding_together:booking:chitiettin_khuyenmai:chitiettin_hoinghi:chitiettin_tieccuoi:chitiettin_tonghop:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang">
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="hoi_nghi" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="trang_mieng" alt=""/>
+      <caption webpage="chitiettin_tonghop" alt=""/>
+      <caption webpage="chitiettin_khuyenmai" alt=""/>
+      <caption webpage="do_uong" alt=""/>
+      <caption webpage="chitiettin_hoinghi" alt=""/>
+      <caption webpage="hinh_anh" alt=""/>
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="chi_tiet_wedding_together" alt=""/>
+      <caption webpage="chitiettin_tieccuoi" alt=""/>
+      <caption webpage="do_an" alt=""/>
+      <caption webpage="chi_tiet_nhan_vien" alt=""/>
+      <caption webpage="tiec_cuoi" alt=""/>
+      <caption webpage="chi_tiet_dau_bep" alt=""/>
+      <caption webpage="chi_tiet_lich_su_va_phat_trien" alt=""/>
+      <caption webpage="lien_he" alt=""/>
+    </file>
+    <file name="linkin-02.png" crc="4058411733" seo="true" ref="index:gioi_thieu:tin_tuc:dich_vu:lien_he:tong_hop:khuyen_mai:tiec_cuoi:hoi_nghi:thuc_don:trang_mieng:do_an:do_uong:hinh_anh:chi_tiet_lich_su_va_phat_trien:chi_tiet_dau_bep:chi_tiet_nhan_vien:chi_tiet_wedding_together:booking:chitiettin_khuyenmai:chitiettin_hoinghi:chitiettin_tieccuoi:chitiettin_tonghop:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang">
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="hoi_nghi" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="trang_mieng" alt=""/>
+      <caption webpage="chitiettin_tonghop" alt=""/>
+      <caption webpage="chitiettin_khuyenmai" alt=""/>
+      <caption webpage="do_uong" alt=""/>
+      <caption webpage="chitiettin_hoinghi" alt=""/>
+      <caption webpage="hinh_anh" alt=""/>
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="chi_tiet_wedding_together" alt=""/>
+      <caption webpage="chitiettin_tieccuoi" alt=""/>
+      <caption webpage="do_an" alt=""/>
+      <caption webpage="chi_tiet_nhan_vien" alt=""/>
+      <caption webpage="tiec_cuoi" alt=""/>
+      <caption webpage="chi_tiet_dau_bep" alt=""/>
+      <caption webpage="chi_tiet_lich_su_va_phat_trien" alt=""/>
+      <caption webpage="lien_he" alt=""/>
+    </file>
+    <file name="rss-02.png" crc="3877287825" seo="true" ref="index:gioi_thieu:tin_tuc:dich_vu:lien_he:tong_hop:khuyen_mai:tiec_cuoi:hoi_nghi:thuc_don:trang_mieng:do_an:do_uong:hinh_anh:chi_tiet_lich_su_va_phat_trien:chi_tiet_dau_bep:chi_tiet_nhan_vien:chi_tiet_wedding_together:booking:chitiettin_khuyenmai:chitiettin_hoinghi:chitiettin_tieccuoi:chitiettin_tonghop:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang">
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="hoi_nghi" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="trang_mieng" alt=""/>
+      <caption webpage="chitiettin_tonghop" alt=""/>
+      <caption webpage="chitiettin_khuyenmai" alt=""/>
+      <caption webpage="do_uong" alt=""/>
+      <caption webpage="chitiettin_hoinghi" alt=""/>
+      <caption webpage="hinh_anh" alt=""/>
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="chi_tiet_wedding_together" alt=""/>
+      <caption webpage="chitiettin_tieccuoi" alt=""/>
+      <caption webpage="do_an" alt=""/>
+      <caption webpage="chi_tiet_nhan_vien" alt=""/>
+      <caption webpage="tiec_cuoi" alt=""/>
+      <caption webpage="chi_tiet_dau_bep" alt=""/>
+      <caption webpage="chi_tiet_lich_su_va_phat_trien" alt=""/>
+      <caption webpage="lien_he" alt=""/>
+    </file>
+    <file name="twitter-02.png" crc="4049231277" seo="true" ref="index:gioi_thieu:tin_tuc:dich_vu:lien_he:tong_hop:khuyen_mai:tiec_cuoi:hoi_nghi:thuc_don:trang_mieng:do_an:do_uong:hinh_anh:chi_tiet_lich_su_va_phat_trien:chi_tiet_dau_bep:chi_tiet_nhan_vien:chi_tiet_wedding_together:booking:chitiettin_khuyenmai:chitiettin_hoinghi:chitiettin_tieccuoi:chitiettin_tonghop:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang">
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="hoi_nghi" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="trang_mieng" alt=""/>
+      <caption webpage="chitiettin_tonghop" alt=""/>
+      <caption webpage="chitiettin_khuyenmai" alt=""/>
+      <caption webpage="do_uong" alt=""/>
+      <caption webpage="chitiettin_hoinghi" alt=""/>
+      <caption webpage="hinh_anh" alt=""/>
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="chi_tiet_wedding_together" alt=""/>
+      <caption webpage="chitiettin_tieccuoi" alt=""/>
+      <caption webpage="do_an" alt=""/>
+      <caption webpage="chi_tiet_nhan_vien" alt=""/>
+      <caption webpage="tiec_cuoi" alt=""/>
+      <caption webpage="chi_tiet_dau_bep" alt=""/>
+      <caption webpage="chi_tiet_lich_su_va_phat_trien" alt=""/>
+      <caption webpage="lien_he" alt=""/>
+    </file>
+    <file name="đặt bàn-02.png" crc="3771896890" ref="index:tin_tuc:dich_vu:lien_he:thuc_don:chi_tiet_wedding_together:booking">
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="hinh_anh" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="chi_tiet_wedding_together" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="chi_tiet_dau_bep" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="lien_he" alt=""/>
+    </file>
+    <file name="logo riêng.png" crc="16991731" seo="true" ref="index:gioi_thieu:tin_tuc:dich_vu:tong_hop:khuyen_mai:tiec_cuoi:hoi_nghi:thuc_don:trang_mieng:do_an:do_uong:hinh_anh:chi_tiet_lich_su_va_phat_trien:chi_tiet_dau_bep:chi_tiet_nhan_vien:chi_tiet_wedding_together:booking:chitiettin_khuyenmai:chitiettin_hoinghi:chitiettin_tieccuoi:chitiettin_tonghop:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang">
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="hoi_nghi" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="trang_mieng" alt=""/>
+      <caption webpage="chitiettin_tonghop" alt=""/>
+      <caption webpage="chitiettin_khuyenmai" alt=""/>
+      <caption webpage="do_uong" alt=""/>
+      <caption webpage="chitiettin_hoinghi" alt=""/>
+      <caption webpage="hinh_anh" alt=""/>
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="chi_tiet_wedding_together" alt=""/>
+      <caption webpage="chitiettin_tieccuoi" alt=""/>
+      <caption webpage="do_an" alt=""/>
+      <caption webpage="chi_tiet_nhan_vien" alt=""/>
+      <caption webpage="tiec_cuoi" alt=""/>
+      <caption webpage="chi_tiet_dau_bep" alt=""/>
+      <caption webpage="chi_tiet_lich_su_va_phat_trien" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+    </file>
+    <file name="capture.jpg" crc="4106217271" seo="true" ref="index:gioi_thieu:tin_tuc:dich_vu:tong_hop:khuyen_mai:tiec_cuoi:hoi_nghi:thuc_don:trang_mieng:do_an:do_uong:hinh_anh:chi_tiet_lich_su_va_phat_trien:chi_tiet_dau_bep:chi_tiet_nhan_vien:chi_tiet_wedding_together:booking:chitiettin_khuyenmai:chitiettin_hoinghi:chitiettin_tieccuoi:chitiettin_tonghop:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang">
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="hoi_nghi" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="trang_mieng" alt=""/>
+      <caption webpage="chitiettin_tonghop" alt=""/>
+      <caption webpage="chitiettin_khuyenmai" alt=""/>
+      <caption webpage="do_uong" alt=""/>
+      <caption webpage="chitiettin_hoinghi" alt=""/>
+      <caption webpage="hinh_anh" alt=""/>
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="chi_tiet_wedding_together" alt=""/>
+      <caption webpage="chitiettin_tieccuoi" alt=""/>
+      <caption webpage="do_an" alt=""/>
+      <caption webpage="chi_tiet_nhan_vien" alt=""/>
+      <caption webpage="tiec_cuoi" alt=""/>
+      <caption webpage="chi_tiet_dau_bep" alt=""/>
+      <caption webpage="chi_tiet_lich_su_va_phat_trien" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+    </file>
+    <file name="1-1.jpg" crc="4050974961" seo="true" ref="gioi_thieu:chi_tiet_lich_su_va_phat_trien">
+      <caption webpage="chi_tiet_lich_su_va_phat_trien" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="nentext-1.png" crc="4184725733" seo="true" ref="gioi_thieu">
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="khungtext-1.png" crc="4102517948" seo="true" ref="gioi_thieu">
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="1-3.png" crc="4047945303" seo="true" ref="gioi_thieu:chi_tiet_lich_su_va_phat_trien:chi_tiet_nhan_vien">
+      <caption webpage="chi_tiet_lich_su_va_phat_trien" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="chi_tiet_nhan_vien" alt=""/>
+    </file>
+    <file name="about-hc_10.jpg" crc="478847687" seo="true" ref="gioi_thieu">
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="hoavan-2-04.png" crc="75543170" seo="true" ref="gioi_thieu:chi_tiet_dau_bep">
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="chi_tiet_dau_bep" alt=""/>
+    </file>
+    <file name="erik-pham.png" crc="93481476" seo="true" ref="gioi_thieu">
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="about-hc_10.png" crc="216892633" seo="true" ref="gioi_thieu">
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="about-hc_07.png" crc="505786671" seo="true" ref="gioi_thieu">
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="chef-22.png" crc="83289238" seo="true" ref="gioi_thieu">
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="3-3.jpg" crc="4270650386" seo="true" ref="gioi_thieu:chi_tiet_nhan_vien">
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="chi_tiet_nhan_vien" alt=""/>
+    </file>
+    <file name="dhj.png" crc="508122483" seo="true" ref="gioi_thieu:chi_tiet_lich_su_va_phat_trien:chi_tiet_dau_bep:chi_tiet_nhan_vien">
+      <caption webpage="chi_tiet_nhan_vien" alt=""/>
+      <caption webpage="chi_tiet_nhan_vien" alt=""/>
+      <caption webpage="chi_tiet_lich_su_va_phat_trien" alt=""/>
+      <caption webpage="chi_tiet_lich_su_va_phat_trien" alt=""/>
+      <caption webpage="chi_tiet_dau_bep" alt=""/>
+      <caption webpage="chi_tiet_dau_bep" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="bg-4.jpg" crc="4071708771" seo="true" ref="gioi_thieu">
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="bkg-khonggian-02.jpg" crc="3838951716" seo="true" ref="gioi_thieu">
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="bg-khong-gian-03.jpg" crc="509615456" seo="true" ref="gioi_thieu">
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="bg-khong-gian-04.jpg" crc="4012884436" seo="true" ref="gioi_thieu">
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="cp - copy.png" crc="4199405008" ref="gioi_thieu">
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="cp.png" crc="87170087" ref="gioi_thieu">
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="bg--km.jpg" crc="259710356" seo="true" ref="gioi_thieu">
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="dèm-trái-.png" crc="4206094364" seo="true" ref="gioi_thieu">
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="20-.png" crc="144458791" seo="true" ref="gioi_thieu">
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="3-mui-ten.png" crc="3881208709" seo="true" ref="gioi_thieu">
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="banner.png" crc="4248449833" seo="true" ref="gioi_thieu">
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="model.png" crc="4051920657" seo="true" ref="gioi_thieu">
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="dèm-phai.png" crc="56100194" seo="true" ref="gioi_thieu">
+      <caption webpage="gioi_thieu" alt=""/>
+    </file>
+    <file name="up_menu.png" crc="181139516" seo="true" ref="tin_tuc:dich_vu:tong_hop:khuyen_mai:tiec_cuoi:hoi_nghi:thuc_don:trang_mieng:do_an:do_uong">
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="tiec_cuoi" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="hoi_nghi" alt=""/>
+      <caption webpage="trang_mieng" alt=""/>
+      <caption webpage="do_an" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="do_uong" alt=""/>
+    </file>
+    <file name="menu-drinks-pink arrowc.png" crc="14767591" seo="true" ref="tin_tuc:dich_vu:tong_hop:khuyen_mai:tiec_cuoi:hoi_nghi:thuc_don:trang_mieng:do_uong">
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="tiec_cuoi" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+      <caption webpage="do_uong" alt=""/>
+      <caption webpage="hoi_nghi" alt=""/>
+      <caption webpage="trang_mieng" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+    </file>
+    <file name="cac-nguyen-tac-vang-khi-chon-nha-hang-tiec-cuoi_1.jpg" crc="325464497" ref="tin_tuc:tong_hop">
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+    </file>
+    <file name="35500-nhungloichuc2010hayvaynghianhat44-u13633-fr.jpg" crc="160856948" ref="tin_tuc:tong_hop"/>
+    <file name="chon-nha-hang-tiec-cuoi-ngon-2.jpg" crc="227869509" ref="tin_tuc:tong_hop">
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+    </file>
+    <file name="pasted-svg-323817x182.svg" crc="4054939183" seo="true" ref="tin_tuc:tong_hop">
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+    </file>
+    <file name="pasted svg 323817x182_poster_.png" crc="3981375446" ref="tin_tuc"/>
+    <file name="pasted-svg-27705x9.svg" crc="3903401476" seo="true" ref="tin_tuc:tong_hop:khuyen_mai">
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+    </file>
+    <file name="pasted svg 27705x9_poster_.png" crc="466212616" ref="tin_tuc"/>
+    <file name="hoa-cuoi-2-72.jpg" crc="451487428" ref="tin_tuc:tong_hop">
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+    </file>
+    <file name="to-chuc-tiec-cuoi-nha-hang-callary-6.jpg" crc="305703816" ref="tin_tuc:tong_hop:chitiettin_tonghop">
+      <caption webpage="chitiettin_tonghop" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+    </file>
+    <file name="nha-hang-tiec-cuoi-metropole-5_1364900485.jpg" crc="3953984480" ref="tin_tuc:tong_hop">
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+    </file>
+    <file name="pasted-svg-787823x290.svg" crc="45580968" seo="true" ref="tin_tuc:tong_hop">
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+    </file>
+    <file name="pasted svg 787823x290_poster_.png" crc="4289703338" ref="tin_tuc"/>
+    <file name="đặt lịch-02.png" crc="3990523091" seo="true" ref="dich_vu:tiec_cuoi:hoi_nghi">
+      <caption webpage="tiec_cuoi" alt=""/>
+      <caption webpage="hoi_nghi" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+    </file>
+    <file name="khungdv3-02.png" crc="241349047" seo="true" ref="dich_vu:tiec_cuoi">
+      <caption webpage="tiec_cuoi" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+    </file>
+    <file name="18-crop-u19099.jpg" crc="3956823682" seo="true" ref="dich_vu">
+      <caption webpage="dich_vu" alt=""/>
+    </file>
+    <file name="3.jpg" crc="132135521" seo="true" ref="dich_vu:tiec_cuoi:chi_tiet_wedding_together">
+      <caption webpage="chi_tiet_wedding_together" alt=""/>
+      <caption webpage="hinh_anh" alt=""/>
+      <caption webpage="tiec_cuoi" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+    </file>
+    <file name="khungdv-02.png" crc="338847222" seo="true" ref="dich_vu:tiec_cuoi">
+      <caption webpage="tiec_cuoi" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+    </file>
+    <file name="nềndv-02.png" crc="4113164425" seo="true" ref="dich_vu:tiec_cuoi">
+      <caption webpage="tiec_cuoi" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+    </file>
+    <file name="4.jpg" crc="486115508" ref="dich_vu:tiec_cuoi">
+      <caption webpage="chi_tiet_wedding_together" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+    </file>
+    <file name="khung5-02.png" crc="4227359538" seo="true" ref="dich_vu:tiec_cuoi:hoi_nghi">
+      <caption webpage="tiec_cuoi" alt=""/>
+      <caption webpage="hoi_nghi" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+    </file>
+    <file name="17-crop-u8608.jpg" crc="358064045" seo="true" ref="dich_vu">
+      <caption webpage="dich_vu" alt=""/>
+    </file>
+    <file name="2-crop-u8612.jpg" crc="409126338" seo="true" ref="dich_vu">
+      <caption webpage="dich_vu" alt=""/>
+    </file>
+    <file name="5-crop-u8610.jpg" crc="4287793119" seo="true" ref="dich_vu">
+      <caption webpage="dich_vu" alt=""/>
+    </file>
+    <file name="khung6-02.png" crc="3984504659" seo="true" ref="dich_vu:tiec_cuoi:hoi_nghi">
+      <caption webpage="tiec_cuoi" alt=""/>
+      <caption webpage="hoi_nghi" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+    </file>
+    <file name="lockwood-chicago-restaurant-bar-2-crop-u13968.jpg" crc="472533601" seo="true" ref="lien_he">
+      <caption webpage="lien_he" alt=""/>
+    </file>
+    <file name="restaurant-04-u13970.png" crc="60969242" ref="lien_he"/>
+    <file name="ornament-02.png" crc="186967893" seo="true" ref="lien_he">
+      <caption webpage="lien_he" alt=""/>
+    </file>
+    <file name="gửi-02-u13943.png" crc="185268279" ref="lien_he"/>
+    <file name="gửi-02-u13943-r.png" crc="457514702" ref="lien_he"/>
+    <file name="gửi-02-u13943-m.png" crc="278994511" ref="lien_he"/>
+    <file name="gửi-02-u13943-fs.png" crc="130985362" ref="lien_he"/>
+    <file name="bang-gia-nha-hang-tiec-cuoi-diamond-place.jpg" crc="4181025203" ref="khuyen_mai:chitiettin_khuyenmai">
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="chitiettin_khuyenmai" alt=""/>
+    </file>
+    <file name="50905047_1-(1).jpg" crc="214747329" ref="khuyen_mai">
+      <caption webpage="khuyen_mai" alt=""/>
+    </file>
+    <file name="du-lich-thai-lan-bangkok-pattaya-dip-he-2017_du-lich-viet-450x225.jpg" crc="4043112490" ref="khuyen_mai">
+      <caption webpage="khuyen_mai" alt=""/>
+    </file>
+    <file name="pasted-svg-199667x159.svg" crc="4137467770" seo="true" ref="khuyen_mai">
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+    </file>
+    <file name="pasted svg 199667x159_poster_.png" crc="4289144930" ref="khuyen_mai"/>
+    <file name="pasted-svg-194632x42.svg" crc="347189894" seo="true" ref="khuyen_mai">
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+    </file>
+    <file name="pasted svg 194632x42_poster_.png" crc="4040261326" ref="khuyen_mai"/>
+    <file name="pasted-svg-1194x39.svg" crc="406783415" seo="true" ref="khuyen_mai:chitiettin_khuyenmai">
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="chitiettin_khuyenmai" alt=""/>
+    </file>
+    <file name="pasted svg 1194x39_poster_.png" crc="4046212317" ref="khuyen_mai"/>
+    <file name="pasted-svg-380x255.svg" crc="194587323" seo="true" ref="khuyen_mai:chitiettin_khuyenmai">
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="chitiettin_khuyenmai" alt=""/>
+    </file>
+    <file name="pasted svg 380x255_poster_.png" crc="4163449545" ref="khuyen_mai"/>
+    <file name="sinhdoi2.jpg" crc="117601468" ref="khuyen_mai">
+      <caption webpage="khuyen_mai" alt=""/>
+    </file>
+    <file name="foody-mobile-tra2-jpg-186-636135921208832270.jpg" crc="522354656" ref="khuyen_mai">
+      <caption webpage="khuyen_mai" alt=""/>
+    </file>
+    <file name="image4.jpg" crc="4293902567" ref="khuyen_mai:chitiettin_khuyenmai:chitiettin_tonghop">
+      <caption webpage="chitiettin_tonghop" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="chitiettin_khuyenmai" alt=""/>
+    </file>
+    <file name="18-crop-u19016.jpg" crc="3956823682" seo="true" ref="tiec_cuoi">
+      <caption webpage="tiec_cuoi" alt=""/>
+    </file>
+    <file name="2-crop-u19261.jpg" crc="4269648186" seo="true" ref="tiec_cuoi">
+      <caption webpage="tiec_cuoi" alt=""/>
+    </file>
+    <file name="1-crop-u19265.jpg" crc="3905310697" seo="true" ref="tiec_cuoi">
+      <caption webpage="tiec_cuoi" alt=""/>
+    </file>
+    <file name="bang-gia-nha-hang-tiec-cuoi-diamond-place-crop-u19263.jpg" crc="4019168219" seo="true" ref="tiec_cuoi">
+      <caption webpage="tiec_cuoi" alt=""/>
+    </file>
+    <file name="16581x290.jpg" crc="148916746" seo="true" ref="hoi_nghi">
+      <caption webpage="hoi_nghi" alt=""/>
+    </file>
+    <file name="croppedimage1600900-restaurant-alpenhof-zermatt553x312.jpg" crc="4069275229" seo="true" ref="hoi_nghi">
+      <caption webpage="hoi_nghi" alt=""/>
+    </file>
+    <file name="kdw-totale1-2.jpg" crc="426964097" seo="true" ref="hoi_nghi">
+      <caption webpage="hoi_nghi" alt=""/>
+    </file>
+    <file name="menu-food-crop-u7375.png" crc="333081749" seo="true" ref="thuc_don">
+      <caption webpage="thuc_don" alt=""/>
+    </file>
+    <file name="menu-food-layer 16c.png" crc="3871642156" seo="true" ref="thuc_don:do_an">
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="do_an" alt=""/>
+    </file>
+    <file name="menu-food-layer 15c.jpg" crc="4179981421" seo="true" ref="thuc_don:do_an">
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="do_an" alt=""/>
+    </file>
+    <file name="home_page_final-02.png" crc="3835801889" seo="true" ref="thuc_don:trang_mieng:do_an:do_uong">
+      <caption webpage="do_an" alt=""/>
+      <caption webpage="trang_mieng" alt=""/>
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="do_uong" alt=""/>
+    </file>
+    <file name="menu-food-ornamentc.png" crc="85392532" seo="true" ref="thuc_don:trang_mieng:do_an:do_uong">
+      <caption webpage="do_an" alt=""/>
+      <caption webpage="trang_mieng" alt=""/>
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="do_uong" alt=""/>
+    </file>
+    <file name="menu-food-layer 4c.jpg" crc="397973679" seo="true" ref="thuc_don:do_an">
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="do_an" alt=""/>
+    </file>
+    <file name="menu-food-layer 17c.png" crc="170265352" seo="true" ref="thuc_don:do_an">
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="do_an" alt=""/>
+    </file>
+    <file name="menu-food-layer 9c.png" crc="3874265529" seo="true" ref="thuc_don:do_an">
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="do_an" alt=""/>
+    </file>
+    <file name="menu-desserts-layer 9c.png" crc="3874023982" seo="true" ref="trang_mieng">
+      <caption webpage="trang_mieng" alt=""/>
+    </file>
+    <file name="menu-desserts-layer 13c.jpg" crc="33969224" seo="true" ref="trang_mieng">
+      <caption webpage="trang_mieng" alt=""/>
+    </file>
+    <file name="menu-desserts-crop-u7716.png" crc="424106674" seo="true" ref="trang_mieng">
+      <caption webpage="trang_mieng" alt=""/>
+    </file>
+    <file name="menu-desserts-layer 10c.png" crc="465341607" seo="true" ref="trang_mieng">
+      <caption webpage="trang_mieng" alt=""/>
+    </file>
+    <file name="menu-desserts-layer 12c.jpg" crc="116257112" seo="true" ref="trang_mieng">
+      <caption webpage="trang_mieng" alt=""/>
+    </file>
+    <file name="menu-desserts-layer 7c.png" crc="4185162668" seo="true" ref="trang_mieng">
+      <caption webpage="trang_mieng" alt=""/>
+    </file>
+    <file name="menu-food-pink arrowc.png" crc="14767591" seo="true" ref="do_an">
+      <caption webpage="do_an" alt=""/>
+    </file>
+    <file name="menu-food-crop-u7520.png" crc="333081749" seo="true" ref="do_an">
+      <caption webpage="do_an" alt=""/>
+    </file>
+    <file name="menu-drinks-layer 22c.png" crc="4246726192" seo="true" ref="do_uong">
+      <caption webpage="do_uong" alt=""/>
+    </file>
+    <file name="menu-drinks-layer 17c.png" crc="208750875" seo="true" ref="do_uong">
+      <caption webpage="do_uong" alt=""/>
+    </file>
+    <file name="menu-drinks-layer 20c.png" crc="153011988" seo="true" ref="do_uong">
+      <caption webpage="do_uong" alt=""/>
+    </file>
+    <file name="menu-drinks-layer 23c.png" crc="41947022" seo="true" ref="do_uong">
+      <caption webpage="do_uong" alt=""/>
+    </file>
+    <file name="menu-drinks-layer 21c.png" crc="234515536" seo="true" ref="do_uong">
+      <caption webpage="do_uong" alt=""/>
+    </file>
+    <file name="menu-drinks-layer 18c.png" crc="371014333" seo="true" ref="do_uong">
+      <caption webpage="do_uong" alt=""/>
+    </file>
+    <file name="12.jpg" crc="3778311725" seo="true" ref="chitiettin_tieccuoi">
+      <caption webpage="chitiettin_tieccuoi" alt=""/>
+      <caption webpage="hinh_anh" alt=""/>
+    </file>
+    <file name="10.jpg" crc="166056599" seo="true" ref="hinh_anh">
+      <caption webpage="hinh_anh" alt=""/>
+    </file>
+    <file name="7.jpg" crc="4159053445" seo="true" ref="hinh_anh">
+      <caption webpage="hinh_anh" alt=""/>
+    </file>
+    <file name="nentexxxxxxxxxxxxxxxxxxxxxxxxxxx-ctt-01.png" crc="4065156859" seo="true" ref="chi_tiet_lich_su_va_phat_trien">
+      <caption webpage="chi_tiet_lich_su_va_phat_trien" alt=""/>
+    </file>
+    <file name="lalalallalalalallalal.jpg" crc="4089006416" seo="true" ref="chi_tiet_dau_bep">
+      <caption webpage="chi_tiet_dau_bep" alt=""/>
+    </file>
+    <file name="cccccccccccccccccccccccccccccccccccccccccccccccccc.png" crc="4281871197" seo="true" ref="chi_tiet_dau_bep">
+      <caption webpage="chi_tiet_dau_bep" alt=""/>
+    </file>
+    <file name="khung nền-02.png" crc="395636061" seo="true" ref="chi_tiet_wedding_together">
+      <caption webpage="chi_tiet_wedding_together" alt=""/>
+    </file>
+    <file name="1.jpg" crc="4189426573" ref="chi_tiet_wedding_together">
+      <caption webpage="chi_tiet_wedding_together" alt=""/>
+    </file>
+    <file name="trang tri-02.png" crc="4181375144" seo="true" ref="chi_tiet_wedding_together:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang">
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+      <caption webpage="chi_tiet_wedding_together" alt=""/>
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+    </file>
+    <file name="down-u22189-fr.png" crc="3972687113" ref="booking:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang"/>
+    <file name="pasted-svg-390004x273.svg" crc="4187517203" seo="true" ref="chitiettin_khuyenmai">
+      <caption webpage="chitiettin_khuyenmai" alt=""/>
+    </file>
+    <file name="pasted svg 390004x273_poster_.png" crc="481266257" ref="chitiettin_khuyenmai"/>
+    <file name="logo riêng2.png" crc="417456977" ref="chitiettin_khuyenmai">
+      <caption webpage="chitiettin_khuyenmai" alt=""/>
+    </file>
+    <file name="foody-mobile-callary-mb-jpg-138-635853600899251373.jpg" crc="4101001095" ref="chitiettin_khuyenmai">
+      <caption webpage="chitiettin_khuyenmai" alt=""/>
+    </file>
+    <file name="12341058-1071790152832821-1950764650042844355-n.jpg" crc="4250430601" ref="chitiettin_khuyenmai">
+      <caption webpage="chitiettin_khuyenmai" alt=""/>
+    </file>
+    <file name="dia-diem-to-chuc-tiec-cuoi-1.jpg" crc="511710702" ref="chitiettin_khuyenmai">
+      <caption webpage="chitiettin_khuyenmai" alt=""/>
+    </file>
+    <file name="16.jpg" crc="393960442" seo="true" ref="chitiettin_hoinghi">
+      <caption webpage="chitiettin_hoinghi" alt=""/>
+    </file>
+    <file name="19.jpg" crc="4248419400" seo="true" ref="chitiettin_hoinghi">
+      <caption webpage="chitiettin_hoinghi" alt=""/>
+    </file>
+    <file name="192.jpg" crc="392720013" seo="true" ref="chitiettin_tieccuoi">
+      <caption webpage="chitiettin_tieccuoi" alt=""/>
+    </file>
+    <file name="bang-gia-nha-hang-tiec-cuoi-diamond-place2.jpg" crc="126702693" seo="true" ref="chitiettin_tieccuoi">
+      <caption webpage="chitiettin_tieccuoi" alt=""/>
+    </file>
+    <file name="cam.jpg" crc="3852376201" ref="chitiettin_tonghop">
+      <caption webpage="chitiettin_tonghop" alt=""/>
+    </file>
+    <file name="hoa-cuoi-tim.jpg" crc="463747492" ref="chitiettin_tonghop">
+      <caption webpage="chitiettin_tonghop" alt=""/>
+    </file>
+    <file name="hoa-cuoi-da-dang.jpg" crc="446607097" ref="chitiettin_tonghop">
+      <caption webpage="chitiettin_tonghop" alt=""/>
+    </file>
+    <file name="tải xuống (1).jpg" crc="322827190" ref="chitiettin_tonghop">
+      <caption webpage="chitiettin_tonghop" alt=""/>
+    </file>
+    <file name="mam-qua-trong-ngay-ngay-2.jpg" crc="4275582160" ref="chitiettin_tonghop">
+      <caption webpage="chitiettin_tonghop" alt=""/>
+    </file>
+    <file name="khungmenu-02.png" crc="86052201" seo="true" ref="booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang">
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+    </file>
+    <file name="logo riêng94x94.png" crc="143649518" seo="true" ref="booking_tieccuoi_goikimcuong">
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+    </file>
+    <file name="trang trí text02.png" crc="3873367239" seo="true" ref="booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang">
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+    </file>
+    <file name="trang trí text-03.png" crc="4170576224" seo="true" ref="booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang">
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+    </file>
+    <file name="14-crop-u22950.jpg" crc="230415686" seo="true" ref="booking_tieccuoi_goikimcuong">
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+    </file>
+    <file name="nền_booking-02.png" crc="4048508808" seo="true" ref="booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang">
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+    </file>
+    <file name="text-02.png" crc="305984749" seo="true" ref="booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang">
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+    </file>
+    <file name="volga-1376885516.jpg" crc="335001088" seo="true" ref="booking_tieccuoi_goivang">
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+    </file>
+    <file name="6-crop-u26174.jpg" crc="4250953565" seo="true" ref="hinh_anh">
+      <caption webpage="hinh_anh" alt=""/>
+    </file>
+    <file name="18-crop-u26200.jpg" crc="4208128607" seo="true" ref="hinh_anh">
+      <caption webpage="hinh_anh" alt=""/>
+    </file>
+    <file name="4412x619.jpg" crc="382415387" seo="true" ref="hinh_anh">
+      <caption webpage="hinh_anh" alt=""/>
+    </file>
+    <file name="5-crop-u26325.jpg" crc="30699222" seo="true" ref="hinh_anh">
+      <caption webpage="hinh_anh" alt=""/>
+    </file>
+    <file name="14736x460.jpg" crc="67214631" seo="true" ref="hinh_anh">
+      <caption webpage="hinh_anh" alt=""/>
+    </file>
+    <file name="r1-02.png" crc="75354468" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r2-02.png" crc="113554135" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r3-02.png" crc="3849047082" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r4-02.png" crc="3949023180" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="r5-02.png" crc="444821988" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9.jpg" crc="185952744" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="social.png" crc="404100122" seo="true" ref="dich_vu:tiec_cuoi:hoi_nghi:index:gioi_thieu:tin_tuc:lien_he:tong_hop:khuyen_mai:thuc_don:trang_mieng:do_an:do_uong:hinh_anh:chi_tiet_lich_su_va_phat_trien:chi_tiet_dau_bep:chi_tiet_nhan_vien:chi_tiet_wedding_together:booking:chitiettin_khuyenmai:chitiettin_hoinghi:chitiettin_tieccuoi:chitiettin_tonghop:booking_tieccuoi_goikimcuong:booking_tieccuoi_goivang">
+      <caption webpage="thuc_don" alt=""/>
+      <caption webpage="hoi_nghi" alt=""/>
+      <caption webpage="tong_hop" alt=""/>
+      <caption webpage="gioi_thieu" alt=""/>
+      <caption webpage="booking" alt=""/>
+      <caption webpage="dich_vu" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="trang_mieng" alt=""/>
+      <caption webpage="chitiettin_tonghop" alt=""/>
+      <caption webpage="chitiettin_khuyenmai" alt=""/>
+      <caption webpage="do_uong" alt=""/>
+      <caption webpage="chitiettin_hoinghi" alt=""/>
+      <caption webpage="hinh_anh" alt=""/>
+      <caption webpage="booking_tieccuoi_goivang" alt=""/>
+      <caption webpage="booking_tieccuoi_goikimcuong" alt=""/>
+      <caption webpage="lien_he" alt=""/>
+      <caption webpage="khuyen_mai" alt=""/>
+      <caption webpage="chi_tiet_wedding_together" alt=""/>
+      <caption webpage="chitiettin_tieccuoi" alt=""/>
+      <caption webpage="do_an" alt=""/>
+      <caption webpage="chi_tiet_nhan_vien" alt=""/>
+      <caption webpage="tiec_cuoi" alt=""/>
+      <caption webpage="chi_tiet_dau_bep" alt=""/>
+      <caption webpage="chi_tiet_lich_su_va_phat_trien" alt=""/>
+      <caption webpage="tin_tuc" alt=""/>
+    </file>
+    <file name="17.jpg" crc="157610102" seo="true" ref="chitiettin_hoinghi">
+      <caption webpage="chitiettin_hoinghi" alt=""/>
+    </file>
+    <file name="122.jpg" crc="3885866268" seo="true" ref="hinh_anh">
+      <caption webpage="hinh_anh" alt=""/>
+    </file>
+    <file name="333.jpg" crc="4187194938" seo="true" ref="hinh_anh">
+      <caption webpage="hinh_anh" alt=""/>
+    </file>
+    <file name="42.jpg" crc="4273321539" seo="true" ref="chi_tiet_wedding_together">
+      <caption webpage="chi_tiet_wedding_together" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="407319091" seo="true" mt="1499395438418" redirect="true"/>
+  <file name="gioi_thieu.html" crc="4054964686" seo="true" mt="1499395438418" redirect="true"/>
+  <file name="tin_tuc.html" crc="3988836633" seo="true" mt="1499396604549" redirect="true"/>
+  <file name="dich_vu.html" crc="37161596" seo="true" mt="1499396633796" redirect="true"/>
+  <file name="lien_he.html" crc="3917521365" seo="true" mt="1499395445206" redirect="true"/>
+  <file name="tong_hop.html" crc="3985626866" seo="true" mt="1499395469318" redirect="true"/>
+  <file name="khuyen_mai.html" crc="3966077627" seo="true" mt="1499395469318" redirect="true"/>
+  <file name="tiec_cuoi.html" crc="3953505030" seo="true" mt="1499396666055" redirect="true"/>
+  <file name="hoi_nghi.html" crc="354902607" seo="true" mt="1499396691184" redirect="true"/>
+  <file name="thuc_don.html" crc="232160219" seo="true" mt="1499395453366" redirect="true"/>
+  <file name="trang_mieng.html" crc="35616190" seo="true" mt="1499395453366" redirect="true"/>
+  <file name="do_an.html" crc="85071648" seo="true" mt="1499395453366" redirect="true"/>
+  <file name="do_uong.html" crc="4189735640" seo="true" mt="1499395453366" redirect="true"/>
+  <file name="hinh_anh.html" crc="222885795" seo="true" mt="1499395438418" redirect="true"/>
+  <file name="chi_tiet_lich_su_va_phat_trien.html" crc="4115974133" seo="true" mt="1499395438418" redirect="true"/>
+  <file name="chi_tiet_dau_bep.html" crc="311915463" seo="true" mt="1499395438418" redirect="true"/>
+  <file name="chi_tiet_nhan_vien.html" crc="4240681235" seo="true" mt="1499395438418" redirect="true"/>
+  <file name="chi_tiet_wedding_together.html" crc="4172217120" seo="true" mt="1499395475777" redirect="true"/>
+  <file name="booking.html" crc="289936986" seo="true" mt="1499396298736" redirect="true"/>
+  <file name="chitiettin_khuyenmai.html" crc="3923724928" seo="true" mt="1499395475777" redirect="true"/>
+  <file name="chitiettin_hoinghi.html" crc="4039603567" seo="true" mt="1499395475777" redirect="true"/>
+  <file name="chitiettin_tieccuoi.html" crc="4131858502" seo="true" mt="1499395475777" redirect="true"/>
+  <file name="chitiettin_tonghop.html" crc="3788214637" seo="true" mt="1499395475777" redirect="true"/>
+  <file name="booking_tieccuoi_goikimcuong.html" crc="3931950374" seo="true" mt="1499396335793" redirect="true"/>
+  <file name="booking_tieccuoi_goivang.html" crc="3921447683" seo="true" mt="1499396320610" redirect="true"/>
+</manifest>
